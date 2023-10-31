@@ -29,7 +29,8 @@
 
 
 <h3 align="left">Contributions:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moinali1&"/></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moinali1&"/></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moinali1&" alt="Moinali1" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
