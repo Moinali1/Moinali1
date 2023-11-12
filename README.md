@@ -1,4 +1,4 @@
-<h1 align="left">Hey there! I'm Moin Ali👋</h1>
+<h1 align="left">Hey there! I'm Moin Ali</h1>
 <h3 align="left"> A Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Moinali1&label=Profile%20views&color=0e75b6&style=flat" alt="Moinali1" /> </p>
