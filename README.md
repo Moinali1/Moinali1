@@ -6,7 +6,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
    
- 👨‍💻 &emsp; An enthusiastic coder and problem solver with a solid understanding of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fundamental computer science concepts<br/><br/>
+ 👨‍💻 &emsp; An Enthusiastic Coder and Problem Solver with a solid understanding of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fundamentals of Computer Science <br/><br/>
  ✌️ &emsp; Programming Enthusiast<br/><br/>
  ❤️ &emsp; Love to writing code and learning new techniques<br/><br/>
  📧 &emsp; Reach me at: **moinali7863@gmail.com**<br/><br/>
