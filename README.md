@@ -19,7 +19,7 @@
 
 </p>
   
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connection Profiles: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/moin-ali-65a28a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://www.leetcode.com/M01NALI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
