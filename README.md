@@ -15,7 +15,7 @@
 </br>
 </br>
 
-<p style="text-align: justify;"><b>A passion for creating innovative web applications. With JavaScript, React, Node.js, and MongoDB, I thrive on building dynamic and responsive websites that provide seamless user experiences. I enjoy staying up-to-date with the latest technologies and frameworks, allowing me to deliver efficient and scalable solutions. I am a motivated individual who loves collaborating with teams to solve complex problems and bring ideas to life.</b></p>
+<p style="text-align: justify;"><b>A passion for creating innovative web applications, with JavaScript, React, Node.js, and MongoDB, I thrive on building dynamic and responsive websites that provide seamless user experiences. I enjoy staying up-to-date with the latest technologies and frameworks, allowing me to deliver efficient and scalable solutions. I am a motivated individual who loves collaborating with teams to solve complex problems and bring ideas to life.</b></p>
 
 </p>
   
